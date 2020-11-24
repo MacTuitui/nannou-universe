@@ -1,6 +1,9 @@
 # nannou-universe
 A nannou sketch I made live at GitHub Universe 2020.
 
+# Spoiler Alert
+If you checkout this repository and run it, you'll get the *final* result, not the step-by-step progression that I go through the talk. 
+
 # Follow along the talk
 If you want to follow along the talk from scratch, you must install a few things first:
 
