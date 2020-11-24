@@ -1,5 +1,5 @@
 # nannou-universe
-A nannou sketch I made live at GitHub Universe 2020.
+A nannou sketch I made live at [GitHub Universe 2020](https://githubuniverse.com/Nannou-creative-coding-with-Rust/).
 
 # Spoiler Alert
 If you checkout this repository and run it, you'll get the *final* result, not the step-by-step progression that I go through the talk. 
